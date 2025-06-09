@@ -59,8 +59,3 @@ Database/*.mdf
 Database/*.ldf
 Database/*.bak
 *.sqlite
-
-# Secrets or local config
-appsettings.*.local.json
-appsettings.Development.json
-secrets.json
